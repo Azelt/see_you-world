@@ -26,9 +26,9 @@ This is **Intellegence**
 ### Crazy program ###
 '
 // This is a crazy program.
-while(true){
-  eat things
-  excrete
+while(true){  
+  eat things;  
+  excrete;  
 }
 // Infinite Loop ...
 '
