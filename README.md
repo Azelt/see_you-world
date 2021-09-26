@@ -27,8 +27,8 @@ This is **Intellegence**
 '
 // This is a crazy program.
 while(true){  
-  eat things;  
-  excrete;  
+    eat things;  
+    excrete;  
 }
 // Infinite Loop ...
 '
